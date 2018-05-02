@@ -156,7 +156,7 @@ h2.second-h2 {
 
 #contact {
   background-color: #fff;
-  height: 500px;
+  height: 650px;
   width: 100%;
 }
 
@@ -260,6 +260,7 @@ a.edition {
   padding: 20px;
   padding-left: 40px;
   padding-right: 40px;
+  font-weight: 400;
 }
 
 .border {
